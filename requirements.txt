@@ -1,0 +1,6 @@
+pandas
+pytest
+sqlalchemy
+psycopg2
+dash
+faker
